@@ -1,0 +1,18 @@
+{
+  "id": 1999,
+  "category": {
+    "id": 2,
+    "name": "Perro"
+  },
+  "name": "Perro",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Marron"
+    }
+  ],
+  "status": "available"
+}

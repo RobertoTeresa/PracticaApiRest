@@ -1,0 +1,18 @@
+{
+  "id": 1999,
+  "category": {
+    "id":1,
+    "name": "felino"
+  },
+  "name": "gato",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "Gris"
+    }
+  ],
+  "status": "available"
+}
